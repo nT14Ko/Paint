@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87158931457",
+    "firebase_url": "https://aaaa-1ea65.firebaseio.com",
+    "project_id": "aaaa-1ea65",
+    "storage_bucket": "aaaa-1ea65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87158931457:android:096abb5aa314d8bf554000",
+        "android_client_info": {
+          "package_name": "com.drawinpaint.paintdraw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87158931457-14pnu5fukhodk21dssk139mlri9frah0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtsPj2sVG5PzbBL4EG7LneqE_G5Nplno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87158931457-14pnu5fukhodk21dssk139mlri9frah0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
